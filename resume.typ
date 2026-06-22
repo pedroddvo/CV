@@ -124,4 +124,4 @@ Mathematics undergraduate specialising in statistical modelling, machine learnin
 = Interests
 #resume-skill-item("Technical", ("Data Science", "Mathematical Modelling", "Open-source", "Linux"))
 #resume-skill-item("Personal", ("Music production", "Piano", "Golf"))
-m
+
