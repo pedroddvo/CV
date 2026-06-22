@@ -105,7 +105,7 @@ Mathematics undergraduate specialising in statistical modelling, machine learnin
     - Analysed data from 150+ experimental flights using R, exploratory data analysis and visualisation techniques
     - Applied design of experiments methodology to evaluate the effects of multiple experimental variables
     - Developed and interpreted linear models to quantify relationships between design parameters and flight characteristics
-    - Produced a formal technical report using LaTeX, documenting methodology, statistical analysis and conclusions
+    - Produced a formal technical report, documenting methodology, statistical analysis and conclusions
     - Created supporting visualisations and 3D models to communicate experimental design
 ]
 
